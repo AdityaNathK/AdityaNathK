@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Nath
 - 👀 I’m interested in ... Web and Mobile Development
-- 🌱 I’m currently learning ...React Native
+- 🌱 I’m currently learning ...PHP Laravel, Vue.js, node.js
 - 💞️ I’m looking to collaborate on ...Flutter and Web Projects
 - 📫 How to reach me ... aditya.k.nath@gmail.com
 
