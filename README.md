@@ -1,8 +1,14 @@
+# About Me
+
 - 👋 Hi, I’m Aditya Nath
 - 👀 I’m interested in ... Web and Mobile Development
 - 🌱 I’m currently learning ...React, PHP Laravel, Vue.js, node.js
 - 💞️ I’m looking to collaborate on ...Flutter and Web Projects
 - 📫 How to reach me ... aditya.k.nath@gmail.com
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!---
 kronosking007/kronosking007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
