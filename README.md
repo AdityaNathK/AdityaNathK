@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 20 December 2022
+From: 01 December 2022 - To: 21 December 2022
 
-Total Time: 45 hrs 59 mins
+Total Time: 46 hrs 41 mins
 
-Dart         11 hrs 32 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
-Other        10 hrs 9 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+Dart         11 hrs 32 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
+Other        10 hrs 47 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
 ```
 
 <!--END_SECTION:waka-->
