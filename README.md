@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Aditya Nath
 - 👀 I’m interested in ... Web and Mobile Development
-- 🌱 I’m currently learning ...React, PHP Laravel, Vue.js, node.js
+- 🌱 I’m currently working on ...Type Script, React, Dart, Flutter, CI/CD
 - 💞️ I’m looking to collaborate on ...Flutter and Web Projects
 - 📫 How to reach me ... aditya.k.nath@gmail.com
 
