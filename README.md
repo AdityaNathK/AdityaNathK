@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 04 April 2023
+From: 01 December 2022 - To: 05 April 2023
 
-Total Time: 60 hrs 37 mins
+Total Time: 60 hrs 40 mins
 
-Dart         13 hrs 49 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
-Other        11 hrs 32 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
+Dart         13 hrs 52 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
+Other        11 hrs 32 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
 ```
 
 <!--END_SECTION:waka-->
