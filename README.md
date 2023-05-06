@@ -15,6 +15,9 @@ Total Time: 62 hrs 15 mins
 
 Dart         14 hrs 19 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
 Other        11 hrs 33 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+YAML         7 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Markdown     6 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+CSS          4 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
 ```
 
 <!--END_SECTION:waka-->
