@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 24 May 2023
+From: 01 December 2022 - To: 25 May 2023
 
-Total Time: 69 hrs 26 mins
+Total Time: 69 hrs 32 mins
 
-Dart         14 hrs 19 mins  █████░░░░░░░░░░░░░░░░░░░░   20.62 %
-Other        11 hrs 38 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
-YAML         7 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-Markdown     6 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-CSS          6 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+Dart         14 hrs 19 mins  █████░░░░░░░░░░░░░░░░░░░░   20.59 %
+Other        11 hrs 38 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
+YAML         7 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+Markdown     6 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+CSS          6 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
 ```
 
 <!--END_SECTION:waka-->
