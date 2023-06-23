@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2022 - To: 20 June 2023
+From: 01 December 2022 - To: 21 June 2023
 
-Total Time: 143 hrs 10 mins
+Total Time: 146 hrs 45 mins
 
-TypeScript   42 hrs 57 mins  ███████▓░░░░░░░░░░░░░░░░░   30.00 %
-CSS          18 hrs 57 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-Dart         16 hrs 44 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-JavaScript   12 hrs 59 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Other        12 hrs 32 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+TypeScript   45 hrs 59 mins  ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+CSS          19 hrs 23 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Dart         16 hrs 44 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+JavaScript   13 hrs 5 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Other        12 hrs 32 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
 ```
 
 <!--END_SECTION:waka-->
