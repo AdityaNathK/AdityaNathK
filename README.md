@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2022 - To: 16 August 2023
+From: 01 December 2022 - To: 17 August 2023
 
 Total Time: 165 hrs 23 mins
 
 TypeScript   51 hrs 23 mins  ███████▓░░░░░░░░░░░░░░░░░   31.07 %
-Dart         24 hrs 38 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+Dart         24 hrs 38 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
 CSS          21 hrs 21 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
 JavaScript   13 hrs 46 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
 Other        12 hrs 49 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
